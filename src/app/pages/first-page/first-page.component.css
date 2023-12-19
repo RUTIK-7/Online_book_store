@@ -1,0 +1,23 @@
+#sidenav{
+    border-right:2px solid black;
+    border-bottom: 2px solid black;
+    text-align: center;
+}
+
+.col-md-10{
+    height:500px;
+    overflow: scroll;
+    margin-top:10px;
+}
+.col-md-3{
+    padding:10px;
+    background-color: lightcyan;
+}
+.jumbotron{
+    background-image: url("E:/mean stack project/project4/images/Dark-Wood-Seamless-Background-Texture-5-copy.jpg");
+}
+li
+{
+    background-color: black;
+    
+}
